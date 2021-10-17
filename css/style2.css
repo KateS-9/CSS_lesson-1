@@ -25,6 +25,10 @@ img{
     border-color: #6699ff;
     border-style: solid;
     border-width: 3px;
+    background-color: #6699ff;
+}
+.tablecell{
+    background-color: white;
 }
 body{
     font-family: Verdana;
