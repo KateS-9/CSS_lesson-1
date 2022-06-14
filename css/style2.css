@@ -10,12 +10,15 @@
     border-color: #6699ff;
     vertical-align: middle;
 }
+
 img{
     border: none;
-  }
+}
+
 .col1{
     width: 100px;
 }
+
 .contenttable{
     padding: 0;
     border-spacing: 0;
@@ -27,9 +30,12 @@ img{
     border-width: 3px;
     background-color: #6699ff;
 }
+
 .tablecell{
     background-color: white;
+    padding: 0;
 }
+
 body{
     font-family: Verdana;
     color: #06389e;
@@ -41,15 +47,18 @@ h2,h4{
     text-transform: uppercase;
     color: #494d56;
 }
+
 #shapka, #slogan{
     font-family: Arial;
     text-align: center;
     color: white;
     font-weight: bold;
 }
+
 #slogan{
     padding:5px 0 5px 0;
 }
+
 .foot{
     color: white;
     font-size: 0.6em;
@@ -61,35 +70,43 @@ h2,h4{
     border-width: 5px;
     
 }
+
 .foot a{
     text-decoration: none;
     color: white;
 }
+
 ul,.content{
     font-size: 0.7em;
 }
+
 ul{
     font-family: Tahoma;
     letter-spacing: 1px;
     line-height: 1.5em;
 }
+
 .content{
     padding: 10px 15px 10px 15px;
     text-align: justify;
     border-top: 2px solid gray;
     border-bottom: 2px solid gray;
 }
+
 .content a{
     text-decoration: none;
     color: #494d56;
     font-weight: bolder;
 }
+
 ol{
     font-size: 0.8em;
 }
+
 ol li a{
     color: gray;
 }
+
 h3{
     margin-top: 0;
     text-align: center;
